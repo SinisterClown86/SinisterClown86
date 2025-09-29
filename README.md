@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, The name's Loay Sherif, Game Developer and Web Developer 👋
 
 <!--
 **SinisterClown86/SinisterClown86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
