@@ -1,4 +1,4 @@
-## Hi there, The name's Loay Sherif, Game Developer and Web Developer 👋
+<h1 align="center">Hi there, The name's Loay Sherif, Game Developer and Web Developer 👋</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SinisterClown86&label=Profile%20views&color=0e75b6&style=flat" alt="Loay Sherif" /> </p>
 
