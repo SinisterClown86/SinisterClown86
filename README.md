@@ -10,4 +10,5 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=SinisterClown86&show_icons=true&theme=transparent"/>
 
 
+<img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinisterClown86&hide_border=true&layout=compact"/>
 <img align="left" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SinisterClown86&theme=transparent&layout=compact"/>
